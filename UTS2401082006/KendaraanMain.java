@@ -29,8 +29,8 @@ public class KendaraanMain {
         
         
         do{
-            System.out.println("Nama    : Rachel Setiawan");
-            System.out.println("NIM     : 2401082013");
+            System.out.println("Nama    : Latifa Irwanda");
+            System.out.println("NIM     : 24010082006");
             System.out.println("Kelas   : Teknik Komputer 1B");
             System.out.println("Group   : B");
 
