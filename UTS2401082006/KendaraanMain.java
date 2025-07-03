@@ -11,15 +11,11 @@ package UTS2401082006;
  */
 import java.util.Scanner;
 public class KendaraanMain {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         
-        //Nama  : Rachel Setiawan
-        //NIM   : 2401082013
+        //Nama  : Latifa Irwanda
+        //NIM   : 2401082006
         //Kelas : Teknik Komputer 1B
         //Group : B
         
